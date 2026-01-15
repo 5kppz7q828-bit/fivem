@@ -2,7 +2,7 @@
 ns: CFX
 apiset: server
 ---
-## GET_TRAIN_CARRIAGE_INDEX
+## GET_TRAIN_CARRIAGE_INDEXslfe
 
 ```c
 int GET_TRAIN_CARRIAGE_INDEX(Vehicle train);
